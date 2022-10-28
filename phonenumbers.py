@@ -1,5 +1,7 @@
 # Code to display the location of a phone number
 #Added a line for Git
+# Added a second line to show edits using command line.
+# Added a third line to show edits using command line as previous did not sync.
 # Import the phonenumbers package
 import phonenumbers
 
